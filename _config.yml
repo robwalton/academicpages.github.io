@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &toomanyrobs
 facebook:
   username               :
   app_id                 :
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Rob Walton"
-  avatar           : "profile.png"
+  avatar           : "rob.jpg"
   bio              : "DPhil. student in Oxford's engineering department"
   location         : "Oxford, UK"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Diamond Light Source"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "rob-walton-278a2784"
+  orcid            : "https://orcid.org/0000-0002-3592-9229"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "toomanyrobs"
   vine             :
   weibo            :
   xing             :
